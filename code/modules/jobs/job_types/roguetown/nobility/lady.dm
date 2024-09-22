@@ -1,5 +1,6 @@
 /datum/job/roguetown/lady
-	title = "Consort Candidate"
+	title = "King Consort"
+	f_title = "Queen Consort"
 	flag = LADY
 	department_flag = NOBLEMEN
 	faction = "Station"
@@ -8,7 +9,7 @@
 
 	allowed_sexes = list(MALE, FEMALE)
 	allowed_races = RACES_ALL_KINDS
-	tutorial = "With the help of foreign matchmakers, you have been paired with the Ruler of Rockhill as a potential candidate to take the side of the Ruler. It is your duty to gain the favor of the King/Queen to unite your kingdoms."
+	tutorial = "Picked out of your political value rather than likely any form of love, you have become the Keep Ruler's most trusted confidant and likely friend throughout your marriage. Your loyalty and, perhaps, love; will be tested this day. For the daggers that threaten your beloved are as equally pointed at your own throat."
 
 	spells = list(/obj/effect/proc_holder/spell/self/convertrole/servant,
 	/obj/effect/proc_holder/spell/self/grant_nobility)
@@ -29,6 +30,21 @@
 	spawn_positions = 0
 	display_order = JDO_LADY
 	give_bank_account = TRUE
+
+/datum/job/roguetown/lady/special_job_check(mob/dead/new_player/player)
+	//this is a fucking homophobia check, bruh
+	if(!player)
+		return FALSE
+	if(!player.ckey)
+		return FALSE
+	for(var/mob/dead/new_player/Lord in GLOB.player_list)
+		if(!Lord)
+			return TRUE
+		if((Lord.mind.assigned_role == "King") && player.mind.assigned_role == "Queen Consort")
+			return TRUE
+		if((Lord.mind.assigned_role == "Queen") && player.mind.assigned_role == "King Consort")
+			return TRUE
+	return FALSE
 
 /datum/job/roguetown/lady/after_spawn(mob/living/H, mob/M, latejoin)
 	. = ..()
