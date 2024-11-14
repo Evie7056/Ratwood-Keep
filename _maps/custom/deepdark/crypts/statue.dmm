@@ -1,161 +1,181 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
+/turf/closed/wall/mineral/rogue/decostone/center,
+/area/rogue)
+"c" = (
+/obj/machinery/light/rogue/wallfire/candle/blue{
+	pixel_y = -32
+	},
 /turf/open/floor/rogue/church,
 /area/rogue)
-"b" = (
+"e" = (
+/turf/closed/wall/mineral/rogue/decostone/long,
+/area/rogue)
+"f" = (
+/obj/machinery/light/rogue/wallfire/candle/blue,
+/turf/open/floor/rogue/church,
+/area/rogue)
+"h" = (
+/turf/open/floor/rogue/church,
+/area/rogue)
+"k" = (
+/turf/open/floor/rogue/churchrough,
+/area/rogue)
+"l" = (
+/obj/structure/mineral_door/wood/donjon/stone,
+/turf/open/floor/rogue/churchrough,
+/area/rogue)
+"m" = (
+/obj/structure/roguewindow/stained/yellow,
+/turf/closed/wall/mineral/rogue/decostone/long,
+/area/rogue)
+"q" = (
 /obj/structure/fluff/psycross/copper,
 /turf/open/floor/rogue/churchrough,
 /area/rogue)
-"c" = (
+"r" = (
 /turf/open/floor/rogue/churchmarble,
 /area/rogue)
-"d" = (
+"s" = (
+/obj/machinery/light/rogue/firebowl/church,
+/turf/open/floor/rogue/churchrough,
+/area/rogue)
+"D" = (
+/obj/structure/fluff/statue/knightalt/r,
+/turf/open/floor/rogue/churchrough,
+/area/rogue)
+"E" = (
+/obj/machinery/light/rogue/wallfire/candle/blue/l,
+/turf/open/floor/rogue/church,
+/area/rogue)
+"H" = (
+/obj/structure/roguewindow/stained/yellow,
+/turf/closed/wall/mineral/rogue/decostone/long{
+	dir = 1
+	},
+/area/rogue)
+"I" = (
 /obj/structure/fluff/statue/astrata/gold{
 	pixel_x = 15
 	},
 /turf/open/floor/rogue/churchmarble,
 /area/rogue)
-"m" = (
-/obj/structure/mineral_door/wood{
-	lockid = "manor"
-	},
-/turf/open/floor/rogue/churchrough,
-/area/rogue)
-"x" = (
-/obj/structure/roguewindow/stained/yellow,
+"J" = (
 /turf/closed/wall/mineral/rogue/decostone/long{
 	dir = 1
 	},
 /area/rogue)
-"C" = (
-/obj/structure/closet/crate/chest/lootbox,
-/turf/open/floor/rogue/churchmarble,
+"K" = (
+/obj/machinery/light/rogue/wallfire/candle/blue/r,
+/turf/open/floor/rogue/church,
 /area/rogue)
-"D" = (
-/turf/closed/wall/mineral/rogue/decostone/long,
-/area/rogue)
-"L" = (
-/obj/structure/roguewindow/stained/yellow,
-/turf/closed/wall/mineral/rogue/decostone/long,
-/area/rogue)
-"N" = (
-/turf/open/floor/rogue/churchrough,
-/area/rogue)
-"O" = (
+"M" = (
 /turf/closed/wall/mineral/rogue/decostone/long{
 	dir = 1;
 	icon_state = "decostone-l"
 	},
 /area/rogue)
-"Q" = (
-/obj/structure/fluff/statue/knightalt/r,
-/turf/open/floor/rogue/churchrough,
-/area/rogue)
 "S" = (
-/turf/closed/wall/mineral/rogue/decostone/center,
-/area/rogue)
-"U" = (
-/turf/closed/wall/mineral/rogue/decostone/long{
-	dir = 1
-	},
+/obj/structure/closet/crate/chest/lootbox,
+/turf/open/floor/rogue/churchmarble,
 /area/rogue)
 
 (1,1,1) = {"
-a
-a
-a
-a
-a
-a
-a
-a
-a
+h
+h
+h
+K
+h
+K
+h
+h
+h
 "}
 (2,1,1) = {"
+h
 a
-S
-D
-D
-L
-D
-D
-S
+e
+e
+m
+e
+e
 a
+h
 "}
 (3,1,1) = {"
-a
-U
-Q
-N
-N
-N
-N
-O
-a
+h
+J
+D
+k
+k
+k
+k
+M
+h
 "}
 (4,1,1) = {"
-a
-U
-N
 c
-d
-c
-N
-O
-a
+J
+s
+r
+I
+r
+k
+M
+f
 "}
 (5,1,1) = {"
-a
-x
-b
-c
-C
-c
-N
-m
-a
+h
+H
+q
+r
+S
+r
+k
+l
+h
 "}
 (6,1,1) = {"
-a
-U
-N
 c
-c
-c
-N
-O
-a
+J
+s
+r
+r
+r
+k
+M
+f
 "}
 (7,1,1) = {"
-a
-U
-Q
-N
-N
-N
-N
-O
-a
+h
+J
+D
+k
+k
+k
+k
+M
+h
 "}
 (8,1,1) = {"
+h
 a
-S
-D
-D
-L
-D
-D
-S
+e
+e
+m
+e
+e
 a
+h
 "}
 (9,1,1) = {"
-a
-a
-a
-a
-a
-a
-a
-a
-a
+h
+h
+h
+E
+h
+E
+h
+h
+h
 "}

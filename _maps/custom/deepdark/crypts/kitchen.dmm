@@ -1,0 +1,325 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/obj/structure/rack/rogue,
+/obj/item/reagent_containers/glass/bowl{
+	pixel_x = -3;
+	pixel_y = 2
+	},
+/obj/item/reagent_containers/glass/bowl{
+	pixel_x = -3;
+	pixel_y = 2
+	},
+/obj/item/reagent_containers/glass/bowl{
+	pixel_x = -3;
+	pixel_y = 2
+	},
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"b" = (
+/turf/closed/wall/mineral/rogue/decostone/long{
+	dir = 1
+	},
+/area/rogue)
+"e" = (
+/obj/structure/fluff/railing/border{
+	dir = 9;
+	icon_state = "border"
+	},
+/obj/structure/chair/stool/rogue,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"f" = (
+/obj/machinery/light/rogue/hearth,
+/obj/item/reagent_containers/glass/bucket/pot,
+/turf/open/floor/rogue/cobblerock,
+/area/rogue)
+"h" = (
+/obj/structure/table/wood{
+	dir = 10;
+	icon_state = "largetable"
+	},
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"j" = (
+/turf/closed/wall/mineral/rogue/decostone/center,
+/area/rogue)
+"m" = (
+/obj/structure/table/wood{
+	dir = 1;
+	icon_state = "tablewood1"
+	},
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"p" = (
+/turf/closed/wall/mineral/rogue/decostone/end{
+	dir = 1
+	},
+/area/rogue)
+"r" = (
+/obj/structure/fluff/railing/border{
+	dir = 6;
+	icon_state = "border"
+	},
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"t" = (
+/obj/structure/table/wood{
+	dir = 10;
+	icon_state = "largetable"
+	},
+/obj/item/reagent_containers/peppermill,
+/obj/item/reagent_containers/food/condiment/saltshaker{
+	pixel_y = 10
+	},
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"u" = (
+/obj/structure/fluff/railing/border,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"v" = (
+/obj/structure/fluff/railing/border{
+	dir = 10;
+	icon_state = "border"
+	},
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"w" = (
+/obj/item/grown/log/tree/stick,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"y" = (
+/obj/structure/fluff/railing/border{
+	dir = 8;
+	icon_state = "border"
+	},
+/obj/structure/chair/stool/rogue,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"A" = (
+/obj/structure/fluff/railing/border{
+	dir = 5;
+	icon_state = "border"
+	},
+/obj/structure/chair/stool/rogue,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"C" = (
+/turf/open/floor/rogue/cobblerock,
+/area/rogue)
+"D" = (
+/obj/item/grown/log/tree/small,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"F" = (
+/obj/structure/table/wood{
+	dir = 10;
+	icon_state = "largetable"
+	},
+/obj/structure/fluff/millstone{
+	pixel_y = 7
+	},
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"H" = (
+/obj/structure/table/wood{
+	dir = 10;
+	icon_state = "largetable"
+	},
+/obj/item/reagent_containers/food/snacks/rogue/pie/cooked/poison,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"I" = (
+/obj/machinery/light/rogue/oven/south,
+/obj/item/grown/log/tree/small,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"J" = (
+/obj/machinery/light/rogue/oven/south,
+/obj/item/grown/log/tree/stick,
+/obj/item/grown/log/tree/stick,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"K" = (
+/obj/structure/rack/rogue,
+/obj/item/reagent_containers/glass/cup/wooden,
+/obj/item/reagent_containers/glass/cup/wooden,
+/obj/item/reagent_containers/glass/cup/wooden,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"L" = (
+/obj/structure/table/wood{
+	dir = 10;
+	icon_state = "largetable"
+	},
+/obj/item/cooking/skewer,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"M" = (
+/obj/machinery/light/rogue/wallfire/candle/blue{
+	pixel_y = -32
+	},
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"P" = (
+/obj/structure/closet/crate/chest,
+/obj/item/reagent_containers/powder/flour,
+/obj/item/reagent_containers/powder/flour,
+/obj/item/reagent_containers/powder/flour,
+/obj/item/reagent_containers/powder/flour,
+/obj/item/reagent_containers/powder/flour,
+/obj/item/reagent_containers/powder/flour,
+/obj/item/reagent_containers/powder/flour,
+/obj/item/reagent_containers/powder/flour,
+/obj/item/reagent_containers/powder/flour,
+/obj/item/reagent_containers/powder/flour,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"Q" = (
+/obj/structure/fluff/railing/border{
+	dir = 4;
+	icon_state = "border"
+	},
+/obj/structure/chair/stool/rogue,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"R" = (
+/obj/structure/closet/crate/chest,
+/obj/item/reagent_containers/food/snacks/butter,
+/obj/item/reagent_containers/food/snacks/butter,
+/obj/item/reagent_containers/food/snacks/butter,
+/obj/item/reagent_containers/food/snacks/butter,
+/obj/item/reagent_containers/food/snacks/butter,
+/obj/item/reagent_containers/food/snacks/butter,
+/obj/item/reagent_containers/food/snacks/butter,
+/obj/item/reagent_containers/food/snacks/butter,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"T" = (
+/obj/structure/rack/rogue,
+/obj/item/reagent_containers/glass/bucket/wooden,
+/obj/item/reagent_containers/glass/bucket/wooden,
+/obj/item/reagent_containers/glass/bucket/wooden,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"U" = (
+/obj/structure/table/wood{
+	dir = 10;
+	icon_state = "largetable"
+	},
+/obj/item/cooking/platter,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"V" = (
+/obj/structure/closet/crate/chest,
+/obj/item/reagent_containers/food/snacks/egg,
+/obj/item/reagent_containers/food/snacks/egg,
+/obj/item/reagent_containers/food/snacks/egg,
+/obj/item/reagent_containers/food/snacks/egg,
+/obj/item/reagent_containers/food/snacks/egg,
+/obj/item/reagent_containers/food/snacks/egg,
+/turf/open/floor/rogue/tile,
+/area/rogue)
+"W" = (
+/turf/open/floor/rogue/tile,
+/area/rogue)
+
+(1,1,1) = {"
+W
+W
+W
+W
+W
+W
+V
+R
+P
+"}
+(2,1,1) = {"
+W
+j
+p
+t
+h
+W
+W
+W
+W
+"}
+(3,1,1) = {"
+W
+b
+F
+W
+W
+W
+W
+W
+W
+"}
+(4,1,1) = {"
+M
+b
+U
+W
+W
+W
+a
+T
+K
+"}
+(5,1,1) = {"
+W
+j
+p
+L
+H
+W
+W
+W
+W
+"}
+(6,1,1) = {"
+M
+b
+C
+I
+w
+r
+Q
+A
+W
+"}
+(7,1,1) = {"
+W
+b
+C
+J
+D
+u
+f
+m
+W
+"}
+(8,1,1) = {"
+W
+j
+p
+w
+W
+v
+y
+e
+W
+"}
+(9,1,1) = {"
+W
+W
+W
+W
+W
+W
+W
+W
+W
+"}
