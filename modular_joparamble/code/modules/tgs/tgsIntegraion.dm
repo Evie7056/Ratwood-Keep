@@ -32,12 +32,13 @@
 	var/datum/tgs_message_content/message = new ("Я собираю людей для новой партии прямо сейчас! <@&[ROUNDWAITER]>")
 	var/datum/tgs_chat_embed/structure/embed = new()
 	message.embed = embed
+	embed.author = new /datum/tgs_chat_embed/provider/author/glob("Эйри Мэнн собирает игроков на сессию")
 	embed.title = "Начинается новая история!"
 	embed.description = "Новая сессия начнется примерно через минут пять."
 	var/datum/tgs_chat_embed/field/line = new ("Eiri Mann говорит:", "[pick(randomline)]")
 	var/datum/tgs_chat_embed/field/joinat = new ("Заходи на cервер!","byond://95.31.73.194:1987")
 	embed.colour = "#4ae49c"
-	embed.author = new /datum/tgs_chat_embed/provider/author/glob("Эйри Мэнн собирает игроков на сессию")
+	
 	//embed.media.thumbnail = "https://tenor.com/view/leaf-black-souls-black-souls-2-marry-ann-mary-sue-gif-9443358797381852725"
 	to_chat(world,"We probably sent a hook to tgs. probably")
 

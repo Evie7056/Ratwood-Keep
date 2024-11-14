@@ -1,0 +1,161 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/open/floor/rogue/church,
+/area/rogue)
+"b" = (
+/obj/structure/fluff/psycross/copper,
+/turf/open/floor/rogue/churchrough,
+/area/rogue)
+"c" = (
+/turf/open/floor/rogue/churchmarble,
+/area/rogue)
+"d" = (
+/obj/structure/fluff/statue/astrata/gold{
+	pixel_x = 15
+	},
+/turf/open/floor/rogue/churchmarble,
+/area/rogue)
+"m" = (
+/obj/structure/mineral_door/wood{
+	lockid = "manor"
+	},
+/turf/open/floor/rogue/churchrough,
+/area/rogue)
+"x" = (
+/obj/structure/roguewindow/stained/yellow,
+/turf/closed/wall/mineral/rogue/decostone/long{
+	dir = 1
+	},
+/area/rogue)
+"C" = (
+/obj/structure/closet/crate/chest/lootbox,
+/turf/open/floor/rogue/churchmarble,
+/area/rogue)
+"D" = (
+/turf/closed/wall/mineral/rogue/decostone/long,
+/area/rogue)
+"L" = (
+/obj/structure/roguewindow/stained/yellow,
+/turf/closed/wall/mineral/rogue/decostone/long,
+/area/rogue)
+"N" = (
+/turf/open/floor/rogue/churchrough,
+/area/rogue)
+"O" = (
+/turf/closed/wall/mineral/rogue/decostone/long{
+	dir = 1;
+	icon_state = "decostone-l"
+	},
+/area/rogue)
+"Q" = (
+/obj/structure/fluff/statue/knightalt/r,
+/turf/open/floor/rogue/churchrough,
+/area/rogue)
+"S" = (
+/turf/closed/wall/mineral/rogue/decostone/center,
+/area/rogue)
+"U" = (
+/turf/closed/wall/mineral/rogue/decostone/long{
+	dir = 1
+	},
+/area/rogue)
+
+(1,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+S
+D
+D
+L
+D
+D
+S
+a
+"}
+(3,1,1) = {"
+a
+U
+Q
+N
+N
+N
+N
+O
+a
+"}
+(4,1,1) = {"
+a
+U
+N
+c
+d
+c
+N
+O
+a
+"}
+(5,1,1) = {"
+a
+x
+b
+c
+C
+c
+N
+m
+a
+"}
+(6,1,1) = {"
+a
+U
+N
+c
+c
+c
+N
+O
+a
+"}
+(7,1,1) = {"
+a
+U
+Q
+N
+N
+N
+N
+O
+a
+"}
+(8,1,1) = {"
+a
+S
+D
+D
+L
+D
+D
+S
+a
+"}
+(9,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
